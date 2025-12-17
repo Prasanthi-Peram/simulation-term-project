@@ -1,5 +1,4 @@
 <a id="readme-top"></a>
-
 ## Modelling of the Airport and Understanding the Impact of Infrastructure Improvements
 
 The project focuses on modeling airport terminal operations and analyzing the impact of infrastructure improvements and terminal closure using discrete-event simulation techniques.
